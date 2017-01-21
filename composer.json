@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wielski\\KinopoiskApi\\": "src/",
+            "wielski\\KinopoiskApi\\": "src/"
         }
     },
     "minimum-stability": "stable"
